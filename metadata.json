@@ -1,22 +1,21 @@
 {
-    "title": "",
-    "slug": "",
-    "description": "",
+    "title": "Programming: Concatenation",
+    "slug": "programming-concatenation",
+    "description": "Describes concatenation in the context of programming. Describes how a new data structure is formed and original data structures are left unchanged.",
     "authors": [
-        "",
-        ""
+        "chris-cooling"
     ],
     "tags": [
-        "",
-        ""
+        "programming"
     ],
-    "duration": 0,
+    "duration": 4,
     "prerequisites": [
-        "",
-        ""
+        "programming-variables",
+        "programming-lists-and-arrays",
+        "programming-strings"
     ],
     "related": [
-        "",
-        ""
+        "programming-key-value-collections",
+        "python-concatenation"
     ]
 }
