@@ -11,7 +11,7 @@
     "duration": 4,
     "prerequisites": [
         "programming-variables",
-        "programming-lists-and-arrays",
+        "programming-lists-arrays",
         "programming-strings"
     ],
     "related": [
